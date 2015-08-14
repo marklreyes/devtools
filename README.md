@@ -1,4 +1,4 @@
-# New Macbook? Sweet. Let's add some web developer tools.
+# A list of tools I use for web development.
 1. [iTerm2](https://www.iterm2.com/)
 2. [Dot Files](https://github.com/mathiasbynens/dotfiles/)
 3. [Set Up Git](https://help.github.com/articles/set-up-git/)
